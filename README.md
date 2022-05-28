@@ -2,6 +2,7 @@
 ## Quantitative Aptitude
 
 Numbers https://www.geeksforgeeks.org/numbers/
+<BR>
 LCM and HCF https://www.geeksforgeeks.org/lcm-and-hcf/
 Work and Wages https://www.geeksforgeeks.org/work-and-wages/
 Pipes and Cisterns https://www.geeksforgeeks.org/pipes-and-cisterns/
