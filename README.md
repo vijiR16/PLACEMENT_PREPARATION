@@ -1,6 +1,6 @@
 # PLACEMENT PREPARATION
 ## Quantitative Aptitude
-```
+
 Numbers https://www.geeksforgeeks.org/numbers/
 LCM and HCF https://www.geeksforgeeks.org/lcm-and-hcf/
 Work and Wages https://www.geeksforgeeks.org/work-and-wages/
@@ -31,7 +31,6 @@ Race https://www.geeksforgeeks.org/race/
 Simplification and Approximation https://www.geeksforgeeks.org/Simplification-and-Approximation/
 Data Interpretation https://www.geeksforgeeks.org/data-interpretation/
 
-```
 ## Reasoning
 ```
 Series :Missing Numbers,Odd One Out https://www.geeksforgeeks.org/series/
