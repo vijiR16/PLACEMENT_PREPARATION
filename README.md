@@ -97,17 +97,16 @@ Java https://www.geeksforgeeks.org/java/
                                                                                   <BR>
 Python https://www.geeksforgeeks.org/python-programming-language/
                                                                                     <BR>
-
 ## Computer Science
 
 Data Structures https://www.geeksforgeeks.org/data-structures/
-                                                                                      <BR>
+                                                                                     <BR>
 Algorithms  https://www.geeksforgeeks.org/fundamentals-of-algorithms/
-                                                                                        <BR>
+                                                                                       <BR>
 DBMS  https://www.geeksforgeeks.org/dbms/
-                                                                                          <BR>
+                                                                                         <BR>
 Operating Systems https://www.geeksforgeeks.org/operating-systems/
-                                                                                          <BR>
+                                                                       <BR>
 Computer Networks https://www.geeksforgeeks.org/computer-network-tutorials/
-                                                                                            <BR>
+                                                       <BR>
 
