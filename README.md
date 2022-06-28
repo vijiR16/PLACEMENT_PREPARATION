@@ -109,4 +109,5 @@ Operating Systems https://www.geeksforgeeks.org/operating-systems/
                                                                        <BR>
 Computer Networks https://www.geeksforgeeks.org/computer-network-tutorials/
                                                        <BR>
-
+        OOPS 
+https://www.google.com/amp/swww.geeksforgeeks.org/python-oops-concepts/amp/
